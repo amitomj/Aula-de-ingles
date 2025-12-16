@@ -1,0 +1,7 @@
+{
+  "name": "LinguistAI - Immersive English Platform",
+  "description": "An advanced English learning platform powered by Gemini Live, featuring real-time correction, topic-based immersive lessons, and flashcards.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
